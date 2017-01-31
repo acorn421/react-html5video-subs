@@ -1,23 +1,22 @@
 {
-  "name": "react-html5video",
-  "version": "1.4.0",
-  "description": "",
+  "name": "react-html5video-subs",
+  "version": "1.0.0",
+  "description": "react-html5video with subtitles.",
   "main": "./dist/ReactHtml5Video.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mderrick/react-html5video.git"
+    "url": "https://github.com/acorn421/react-html5video-subs.git"
   },
   "bugs": {
-    "url": "https://github.com/mderrick/react-html5video/issues"
+    "url": "https://github.com/acorn421/react-html5video-subs/issues"
   },
-  "homepage": "https://github.com/mderrick/react-html5video",
+  "homepage": "https://github.com/acorn421/react-html5video-subs",
   "author": {
-    "name": "Matt Derrick",
-    "email": "me@mattderrick.co.uk",
-    "url": "http://mattderrick.co.uk"
+    "name": "Youngjoon Kim",
+    "email": "acorn421@gmail.com",
   },
   "license": "MIT",
   "dependencies": {
