@@ -1,6 +1,6 @@
 {
   "name": "react-html5video-subs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "react-html5video with subtitles.",
   "main": "./dist/ReactHtml5Video.js",
   "scripts": {
